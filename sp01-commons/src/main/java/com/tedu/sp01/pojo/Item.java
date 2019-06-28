@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//很好的一样1
+	//很好
 	private Integer id;
 //名字
 	private String name;
